@@ -6,3 +6,7 @@ K-Means clustering algortihm implemented in C++. Graphs were plotted with python
 </div>
 
 ## Usage Example
+
+
+## License
+This project is licensed under [MIT](https://choosealicense.com/licenses/mit/) License
